@@ -7,7 +7,7 @@ from google.genai import types
 
 
 # ------------------------
-# הגדרות ראשוניות ל-Streamlit
+# הגדרות ראשוניות ל-Streamlit (כאן הכותרות השיווקיות)
 # ------------------------
 st.set_page_config(
     page_title="האמת בעיניים: מנתח שפת הגוף מבוסס AI",
